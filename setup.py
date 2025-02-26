@@ -19,7 +19,7 @@ setup(
         "pandas_ta.volatility",
         "pandas_ta.volume"
     ],
-    version=".".join(("0", "3", "14b")),
+    version=".".join(("0", "3", "14bx")),
     description=long_description,
     long_description=long_description,
     author="Kevin Johnson",
@@ -51,7 +51,7 @@ setup(
         "data": ["data/*.csv"],
     },
     install_requires=[
-        "numpy==1.26.4",
+        "numpy>=1.26.4",
         "pandas"
     ],
     # List additional groups of dependencies here (e.g. development dependencies).
