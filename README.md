@@ -4,6 +4,18 @@
   </a>
 </p>
 
+**This is in no way an attempt to contribute to pandas_ta, it is not associated with pandas_ta and has only been created as a short term fix to avoid a temporary issue
+and assist with tutorial presentation**
+
+To install this version use
+```sh
+pip install -U git+https://github.com/OrchardForexTutorials/pandas-ta --no-cache-dir
+```
+
+Please uninstall before installing any official versions of pandas_ta.
+
+
+
 Pandas TA - A Technical Analysis Library in Python 3
 =================
 
